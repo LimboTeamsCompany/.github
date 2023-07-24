@@ -53,11 +53,10 @@
 
 # Our projects
 
-<img src="./assets/darxprex.png"/>
 <img src="./profile/assets/darxprex.png"/>
-<img src="https://limboteams.com/assets/img/icons/logo.png"/>
-<img src="./assets/cambiosuruguay.png"/>
-<img src="./assets/adamo.png"/>
+<img src="./profile/assets/darxprex.png"/>
+<img src="./profile/assets/cambiosuruguay.png"/>
+<img src="./profile/assets/adamo.png"/>
 
 
 ## Use To Code
@@ -81,4 +80,4 @@ Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&lo
 
 <br />
 
-<img src="./assets/our team.png"/>
+<img src="./profile/assets/our team.png"/>
