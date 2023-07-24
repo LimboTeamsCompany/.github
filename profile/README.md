@@ -54,6 +54,8 @@
 # Our projects
 
 <img src="./assets/darxprex.png"/>
+<img src="./profile/assets/darxprex.png"/>
+<img src="https://limboteams.com/assets/img/icons/logo.png"/>
 <img src="./assets/cambiosuruguay.png"/>
 <img src="./assets/adamo.png"/>
 
