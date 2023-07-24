@@ -54,7 +54,6 @@
 # Our projects
 
 <img src="./profile/assets/darxprex.png"/>
-<img src="./profile/assets/darxprex.png"/>
 <img src="./profile/assets/cambiosuruguay.png"/>
 <img src="./profile/assets/adamo.png"/>
 
