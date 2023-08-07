@@ -1,4 +1,3 @@
-
 <!-- Intro  -->
 <h3 align="center">
   <samp
@@ -40,7 +39,8 @@
 <br />
 
 <!-- About Section -->
-# About we
+
+# About us
 
 <p>
   ✌️ Community values are the criteria that members of a society share and put into practice. These values help us coexist in a respectful and harmonious way among all team members. <br /><br />
@@ -50,15 +50,15 @@
 
 <br />
 
-
 # Our projects
 
+<img src="./profile/assets/adamo.png"/>
 <img src="./profile/assets/darxprex.png"/>
 <img src="./profile/assets/cambiosuruguay.png"/>
-<img src="./profile/assets/adamo.png"/>
-
+<img src="./profile/assets/donfido.png"/>
 
 ## Use To Code
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Flutter](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -79,4 +79,4 @@ Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&lo
 
 <br />
 
-<img src="./profile/assets/our team.png"/>
+<img src="./profile/assets/our team.jpeg"/>
