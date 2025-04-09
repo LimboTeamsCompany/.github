@@ -2,7 +2,7 @@
 <h3 align="center">
   <samp
     >&gt; Hey There!, We are
-    <b><a target="_blank" href="https://limboteams.com/">LimboTeams</a></b>
+    <b><a target="_blank" href="https://limboteams.com/">LIMBO</a></b>
   </samp>
 </h3>
 
